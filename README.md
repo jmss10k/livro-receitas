@@ -1,6 +1,7 @@
 # Livro de Receitas :cookie:
 
-ola vagabundo :smile:
+ol:smile:
 
 - cabum
 - pave
+
